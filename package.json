@@ -1,0 +1,12 @@
+{
+  "name": "trabalhofinal",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Matheus Toledo",
+  "type": "module",
+  "main": "./src/app.js",
+  "dependencies": {
+    "googleapis": "^109.0.1",
+    "mime-types": "^2.1.35"
+  }
+}
